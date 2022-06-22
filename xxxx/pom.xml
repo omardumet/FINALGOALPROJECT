@@ -15,7 +15,7 @@
 	<name>GoalWebApp</name>
 	<description>Goal Web Application</description>
 	<properties>
-		<java.runtime.version>17</java.runtime.version>
+		<java.runtime.version>8</java.runtime.version>
 	</properties>
 	<dependencies>
 
